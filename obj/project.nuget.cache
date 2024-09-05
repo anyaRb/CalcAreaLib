@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "K06I5pGlLF8/06DhawihOnqymYTgTctBRUVTaIG8I5Z1v6Tc8ApFZCmT3/9lWfFOwjYxsv1GWtcF1w4uPa95SQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\AMikhailova\\Desktop\\square\\AreaCalcLib.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\AMikhailova\\.nuget\\packages\\nunit\\4.2.2\\nunit.4.2.2.nupkg.sha512",
+    "C:\\Users\\AMikhailova\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.31\\microsoft.windowsdesktop.app.ref.6.0.31.nupkg.sha512",
+    "C:\\Users\\AMikhailova\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.31\\microsoft.netcore.app.ref.6.0.31.nupkg.sha512",
+    "C:\\Users\\AMikhailova\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.31\\microsoft.aspnetcore.app.ref.6.0.31.nupkg.sha512",
+    "C:\\Users\\AMikhailova\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.31\\microsoft.netcore.app.host.win-x64.6.0.31.nupkg.sha512"
+  ],
+  "logs": []
+}
